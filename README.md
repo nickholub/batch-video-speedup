@@ -1,4 +1,4 @@
-# VideosSpeedUp
+# Batch Video Speed Up
 
 A Python CLI tool to batch speed up MP4 videos in a directory.
 
